@@ -5,4 +5,4 @@ Many current machine learning (ML) models remain narrowly focused on a single da
 ### Two modality Example of cross-attention in 1st stage then fusion and self-attention
 ![_two modality cross attention, fusion, and self-attention_](./two_modalities.png)
 
-## **Note**: _Please see AIHC.pdf Poster for more information_ [Harnessing Heterogeneous Healthcare Data: An Attention Neural Network Approach](./AIHC.pdf)
+## **Note**: _Please see AIHC.pdf Poster for more information_ [Click here to view Poster](./AIHC.pdf)
